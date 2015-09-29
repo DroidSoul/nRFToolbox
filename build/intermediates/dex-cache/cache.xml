@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Android Project\Stutio\samples\android-22\ui\nRFToolbox\app\libs\achartengine-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9932e3fb9fbe54e80873e77f72a99f79e33b3250">
+        <dex dex="G:\Android Project\Stutio\samples\android-22\ui\nRFToolbox\app\build\intermediates\pre-dexed\debug\achartengine-1.1.0-6257d36849fc246d66d62dc909f02febfe938260.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="G:\Android Project\Stutio\samples\android-22\ui\nRFToolbox\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-73b9883bfda7e9a6ae205d0e99c174e73ba72aaa.jar" />
+    </item>
+    <item
+        jar="G:\Android Project\Stutio\samples\android-22\ui\nRFToolbox\app\libs\logger-v1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0153beb7fa337d826ae475fc9e8ab7f096854d75">
+        <dex dex="G:\Android Project\Stutio\samples\android-22\ui\nRFToolbox\app\build\intermediates\pre-dexed\debug\logger-v1-57dbd4034846c841cd76707c0516c849f6240076.jar" />
+    </item>
+
+</items>
